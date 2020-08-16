@@ -1,0 +1,10 @@
+Create Database hospital_data;
+
+Install maven:
+https://mkyong.com/maven/how-to-install-maven-in-windows/
+
+spring boot run:
+mvn spring-boot:run
+
+Postman Collection Link:
+https://www.getpostman.com/collections/fd944301eede4a0f2161
